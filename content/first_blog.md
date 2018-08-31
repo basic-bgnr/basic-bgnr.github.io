@@ -1,0 +1,17 @@
+title:My first blog post 
+date:Aug 5, 2018 
+slug:first_blog.md
+summary:Finally Blogging 
+
+I am going to have a mid year resolution. For years i have tried to sideline web development because
+... yada yada yada .... HTML IS NOT A PRORAMMING LANGUAGE. hhahahaha . I never even gave a thougtht 
+about web development or javascript. Yeah javascript, because you know all cool kids hate javascipt. 
+tried runnning the same bandwagon for many years, starting in early 2000s. I starting learning
+programming with acionscipt, yet my puny brain couldn't even think about learning html decently. Years 
+passed and (fingers crossed) I made a pact to learn every cool language I could think of. And I started
+with ... (drumrolls ) C and then C++ . Yeah I know, I know, I should have made a thoughful decision 
+before I would have jumped ship. But anyways, here I am and within a course of next 5 weeks I will make
+necessary preparation to call myself a webdev (better than mediocre, fingers closed). So adios for now,
+I will be back tomorrow to show something new that I have learnt. Good bye.
+				
+

@@ -1,18 +1,11 @@
 title: My migration to static web generator
-date: 20/08/2018
-slug:my-migration-to-stati-web-generator
+date:Aug 30, 2018 
+slug:changing_to_SSG.md
 summary: I decided to change my usual pattern of writing blog to something more automated and easier
 
-##hello, after a long time ###
-I've just completed my exam and I will continue my journey 
-to writing my blog.
+hello, after a long time 
+My exam has just completed so I  will try to continue my writing at faster pace.
+I'm planning to switch to static website generator written in jinja2 and content in markdown format
+I hope it will make my task easier.
+I'll be here soon.
 
-This time I'm planning to switch to static web site generator 
-that generate a web page from a template with content written
-in an .md file.
-
-I hope it will create my journey easier.
-
-I'll reach you soon.
-
-date: 30/08/2018, 
