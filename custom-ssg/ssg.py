@@ -8,7 +8,8 @@ def main():
     #print('entered')
     POSTS = {}
 
-    env = Environment(loader = PackageLoader('ssg', 'templates'))
+    env = Environment(loader = PackageLoader('ssg'))#if the location of templates is not given, Package loader assumes the location of "templates" folder on the same directory containing the file running this code
+
     index_template = env.get_template('index.html')
     post_template = env.get_template('post-details.html')
     
